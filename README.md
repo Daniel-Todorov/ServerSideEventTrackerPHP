@@ -3,7 +3,7 @@
 A simple server side event tracker for Google Analytics written in PHP and intended for RESTful APIs
 
 
-# Sample usage
+## Sample usage
 
 ``` php
 function sendComplexEventAnalysisNew($cmd, $userId){
