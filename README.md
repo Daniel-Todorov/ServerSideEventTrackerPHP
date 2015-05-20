@@ -5,7 +5,7 @@ A simple server side event tracker for Google Analytics written in PHP and inten
 
 # Sample usage
 
-```
+``` php
 function sendComplexEventAnalysisNew($cmd, $userId){
     $newTracker = new GoogleAnalysisTracker('UA-XXXXXXXX-X', 'example.com', $userId);
 
